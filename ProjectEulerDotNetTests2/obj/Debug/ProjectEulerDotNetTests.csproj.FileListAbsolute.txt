@@ -1,0 +1,17 @@
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\obj\Debug\ProjectEulerDotNetTests.csprojAssemblyReference.cache
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\obj\Debug\ProjectEulerDotNetTests.csproj.CoreCompileInputs.cache
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\bin\Debug\ProjectEulerDotNetTests2.dll
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\bin\Debug\ProjectEulerDotNetTests2.pdb
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\bin\Debug\ProjectEulerDotNet.exe
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\bin\Debug\ProjectEulerDotNet.pdb
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\bin\Debug\ProjectEulerDotNet.exe.config
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\obj\Debug\ProjectEulerDotNetTests.csproj.CopyComplete
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\obj\Debug\ProjectEulerDotNetTests2.dll
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests2\obj\Debug\ProjectEulerDotNetTests2.pdb
