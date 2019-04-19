@@ -12,7 +12,7 @@ namespace ProjectEulerDotNet.Tests
     public class Euler2Tests
     {
         [TestMethod()]
-        public void MainTest()
+        public void isEvenTest()
         {
             Assert.Fail();
         }

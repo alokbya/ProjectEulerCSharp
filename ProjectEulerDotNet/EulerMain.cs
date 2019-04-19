@@ -8,16 +8,10 @@ namespace ProjectEulerDotNet
 {
     class EulerMain
     {
+        // Run each Euler problem from here
         public static void Main(string[] args)
         {
-            int limit = 1000;
-            Console.WriteLine(
-                String.Format(
-                "Limit: {0} \r\nSum: {1}",
-                limit,
-                Euler1.SumOfMultiplesOf_3and5(limit)
-                ));
-
+            Console.WriteLine(Euler2.FibonacciEvenSum(100));
             Console.ReadLine();
         }
     }
