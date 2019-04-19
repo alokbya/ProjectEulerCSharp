@@ -8,7 +8,7 @@ namespace ProjectEulerDotNet
 {
     public class Euler2
     {
-        // here
+        // Problem 2
         public static bool IsEven(uint number)
         {
             if(number % 2 == 0)
@@ -18,24 +18,36 @@ namespace ProjectEulerDotNet
             return false;
         }
 
-        public static uint FibonacciNext(uint current, uint last)
+        public static uint sumEven(uint number, uint sum)
         {
-            return current + last;
-        }
-
-        public static uint FibonacciEvenSum(uint limit)
-        {
-            uint sum = 0, last = 0;
-            for ( uint i = 1; i < limit; i = FibonacciNext(i, last)){
-                if (IsEven(i))
-                {
-                    sum += i;
-                    Console.WriteLine(i);
-                }
-                last = i;
-
+            if (IsEven(number))
+            {
+                return sum += number;
             }
             return sum;
+        }
+
+        public static void printNumbers(bool printIsTrue, uint data)
+        {
+            if (printIsTrue)
+            {
+                Console.WriteLine(data);
+            }
+        }
+        public static void Fibonacci(uint limit=100, bool print=true)
+        {
+            uint counter = 0;
+            uint first = 1, next = 2, sum = 0, placeholder = 0;
+
+            while (counter < limit)
+            {
+                sum = sumEven(first, sum);
+                placeholder = next + first;
+                first = next;
+                next = placeholder;
+                printNumbers\(print, next);
+            }
+
         }
     }
 

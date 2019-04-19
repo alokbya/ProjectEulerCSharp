@@ -14,7 +14,13 @@ namespace ProjectEulerDotNet.Tests
         [TestMethod()]
         public void isEvenTest()
         {
-            Assert.Fail();
+            for(uint i = 0; i <= 100; i++)
+            {
+                if(i % 2 == 0 && !Euler2.IsEven(i))
+                {
+                    Assert.IsFalse(Euler2.IsEven(i));
+                }
+            }
         }
     }
 }

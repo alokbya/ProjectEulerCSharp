@@ -11,7 +11,8 @@ namespace ProjectEulerDotNet
         // Run each Euler problem from here
         public static void Main(string[] args)
         {
-            Console.WriteLine(Euler2.FibonacciEvenSum(100));
+            //Console.WriteLine(Euler2.FibonacciEvenSum(100));
+            Console.WriteLine("Problem 2... ");
             Console.ReadLine();
         }
     }

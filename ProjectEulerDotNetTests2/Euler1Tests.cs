@@ -14,12 +14,13 @@ namespace ProjectEulerDotNet.Tests
         [TestMethod()]
         public void SumOfMultiplesOf_3and5Test()
         {
+            Euler1 e = new Euler1();
             for (int i = 0; i < 100; i++)
             {
                 if (i % 3 == 0 && i % 5 == 0 && 
-                    !Euler1.IsMultipleOf_3and5(i))
+                    !e.IsMultipleOf_3and5(i))
                 {
-                    Assert.IsFalse(Euler1.IsMultipleOf_3and5(i));
+                    Assert.IsFalse(e.IsMultipleOf_3and5(i));
                 }
             }
         }
@@ -27,12 +28,12 @@ namespace ProjectEulerDotNet.Tests
         [TestMethod]
         public void IsMultipleOf_5Test()
         {
-            
+            Euler1 e = new Euler1();
             for (int i = 0; i < 100; i++)
             {
-                if (i % 5 == 0 && !Euler1.IsMultipleOf_5(i))
+                if (i % 5 == 0 && !e.IsMultipleOf_5(i))
                 {
-                    Assert.IsFalse(Euler1.IsMultipleOf_5(i));
+                    Assert.IsFalse(e.IsMultipleOf_5(i));
                 }
             }
         }
@@ -40,11 +41,12 @@ namespace ProjectEulerDotNet.Tests
         [TestMethod]
         public void IsMultipleOf_3Test()
         {
+            Euler1 e = new Euler1();
             for (int i = 0; i < 100; i++)
             {
-                if(i % 3 == 0 && !Euler1.IsMultipleOf_3(i))
+                if(i % 3 == 0 && !e.IsMultipleOf_3(i))
                 {
-                    Assert.IsFalse(Euler1.IsMultipleOf_3(i));
+                    Assert.IsFalse(e.IsMultipleOf_3(i));
                 }
             }
         }
