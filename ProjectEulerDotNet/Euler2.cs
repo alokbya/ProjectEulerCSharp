@@ -34,20 +34,23 @@ namespace ProjectEulerDotNet
                 Console.WriteLine(data);
             }
         }
-        public static void Fibonacci(uint limit=100, bool print=true)
+
+        public static uint Fibonacci(uint limit=100, bool print=true)
         {
             uint counter = 0;
             uint first = 1, next = 2, sum = 0, placeholder = 0;
 
-            while (counter < limit)
+            while (first < limit)
             {
+                printNumbers(print, first);
                 sum = sumEven(first, sum);
                 placeholder = next + first;
                 first = next;
                 next = placeholder;
-                printNumbers\(print, next);
+                
+                counter++;
             }
-
+            return sum;
         }
     }
 

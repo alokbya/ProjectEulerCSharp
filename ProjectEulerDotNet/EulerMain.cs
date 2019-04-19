@@ -13,6 +13,7 @@ namespace ProjectEulerDotNet
         {
             //Console.WriteLine(Euler2.FibonacciEvenSum(100));
             Console.WriteLine("Problem 2... ");
+            Console.WriteLine(String.Format("Sum: {0}",Euler2.Fibonacci(4000000, true)));
             Console.ReadLine();
         }
     }
