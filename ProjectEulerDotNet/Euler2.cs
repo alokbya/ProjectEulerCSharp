@@ -53,8 +53,4 @@ namespace ProjectEulerDotNet
             return sum;
         }
     }
-
-
-    
-
 }

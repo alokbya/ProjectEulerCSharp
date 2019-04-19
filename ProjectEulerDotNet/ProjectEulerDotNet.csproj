@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Euler1.cs" />
     <Compile Include="Euler2.cs" />
+    <Compile Include="Euler3.cs" />
     <Compile Include="EulerMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

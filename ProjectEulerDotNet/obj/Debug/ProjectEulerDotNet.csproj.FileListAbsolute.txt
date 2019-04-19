@@ -4,3 +4,4 @@ C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNet\bin\Debug\Pr
 C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNet\obj\Debug\ProjectEulerDotNet.csproj.CoreCompileInputs.cache
 C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNet\obj\Debug\ProjectEulerDotNet.exe
 C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNet\obj\Debug\ProjectEulerDotNet.pdb
+C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNet\obj\Debug\ProjectEulerDotNet.csprojAssemblyReference.cache
