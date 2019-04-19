@@ -8,19 +8,6 @@ namespace ProjectEulerDotNet
 {
     public class Euler1
     {
-        public static void Main(string[] args)
-        {
-            int limit = 1000;
-            Console.WriteLine(
-                String.Format(
-                "Limit: {0} \r\nSum: {1}",
-                limit, 
-                SumOfMultiplesOf_3and5(limit)
-                ));
-            
-            Console.ReadLine();
-        }
-
         // Function of type int to return the sum
         // of all multiples of 3 or 5, up to (not including)
         // the limit
