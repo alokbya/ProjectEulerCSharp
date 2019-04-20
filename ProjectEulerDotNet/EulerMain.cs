@@ -12,8 +12,8 @@ namespace ProjectEulerDotNet
         public static void Main(string[] args)
         {
             //Console.WriteLine(Euler2.FibonacciEvenSum(100));
-            Console.WriteLine("Problem 3... ");
-            Euler3.printPrimeFactors(600851475143);
+            Console.WriteLine("Problem 4... ");
+            Console.WriteLine(Euler4.palindromeProduct(true, 3));
             Console.ReadLine();
         }
     }
