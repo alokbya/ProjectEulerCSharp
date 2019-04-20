@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 namespace ProjectEulerDotNet.Tests
 {
     [TestClass()]
-    public class Euler1Tests
+    public class Euler4Tests
     {
         [TestMethod()]
-        public void IsMultipleOf_5Test()
+        public void ReverseTest()
         {
             Assert.Fail();
         }

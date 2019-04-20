@@ -13,7 +13,7 @@ namespace ProjectEulerDotNet
         {
             //Console.WriteLine(Euler2.FibonacciEvenSum(100));
             Console.WriteLine("Problem 4... ");
-            Console.WriteLine(Euler4.palindromeProduct(true, 3));
+            Console.WriteLine(Euler5.smallestMultiple(20));
             Console.ReadLine();
         }
     }

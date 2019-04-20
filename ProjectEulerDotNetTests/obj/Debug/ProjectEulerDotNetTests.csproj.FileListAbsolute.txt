@@ -1,2 +1,0 @@
-C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests\obj\Debug\ProjectEulerDotNetTests.csprojAssemblyReference.cache
-C:\Users\alokbya\source\repos\ProjectEulerDotNet\ProjectEulerDotNetTests\obj\Debug\ProjectEulerDotNetTests.csproj.CoreCompileInputs.cache

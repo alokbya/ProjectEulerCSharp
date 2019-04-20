@@ -59,6 +59,8 @@
     <Compile Include="Euler1Tests.cs" />
     <Compile Include="Euler2Tests.cs" />
     <Compile Include="Euler3Tests.cs" />
+    <Compile Include="Euler4Tests.cs" />
+    <Compile Include="Euler5Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
