@@ -12,8 +12,8 @@ namespace ProjectEulerDotNet
         public static void Main(string[] args)
         {
             //Console.WriteLine(Euler2.FibonacciEvenSum(100));
-            Console.WriteLine("Problem 4... ");
-            Console.WriteLine(Euler5.smallestMultiple(20));
+            Console.WriteLine("Problem 6... ");
+            Euler6.differenceOfsums(100);
             Console.ReadLine();
         }
     }
